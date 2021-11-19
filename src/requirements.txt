@@ -33,6 +33,7 @@ binaryornot==0.4.4
 black==21.5b1
     # via -r C:\Users\juanm\Documents\Sumz\kedro-devops\src\requirements.in
 bleach==4.1.0
+pytest
     # via nbconvert
 cachetools==4.2.4
     # via kedro
